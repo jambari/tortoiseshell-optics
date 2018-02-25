@@ -138,6 +138,20 @@ nav span a, .mobile-nav {
 }
 
 
+/*footer styles*/
+footer {
+    display: flex;
+    align-items: center;
+    background-color: azure;
+    padding: 4rem 2rem;
+}
+
+footer img {
+    height: 1.5rem;
+    margin-left: 2rem;
+    margin-right: 1rem;
+}
+
 
 
 
