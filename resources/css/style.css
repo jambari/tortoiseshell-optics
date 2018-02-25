@@ -113,6 +113,39 @@ nav span a, .mobile-nav {
     width: 3.5rem;
 }
 
+#more-info {
+    display: flex;
+    justify-content: center;   
+}
+
+.info {
+    width: 35%;
+    margin-right: 5%;
+    margin-bottom: 4rem;
+}
+
+.info-title {
+    background-color: cadetblue;
+    color: white;
+    font-weight: bold;
+    padding: 0.5rem 1.25rem;
+    max-width: 10rem;
+    
+}
+
+.info p {
+    padding: 1rem 0;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
